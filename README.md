@@ -2,8 +2,7 @@
 
 ### Introduction
 
-- I'm what people know as Naoki online. But one of my real name is Mustaqim.
-- I'm a high school student and 2022 will be the last year I'm in high school.
+- I'm what people know as Naoki online. I go by Naoki on some platforms.
 - I'm somewhat considered to be quite passionate on developing something.
 
 ### About
