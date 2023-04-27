@@ -2,16 +2,16 @@
 
 ### Introduction
 
-- I'm what people know as Naoki online. I go by Naoki on some platforms.
-- I'm somewhat considered to be quite passionate on developing something.
+- I'm Naoki, the name I go by online. Although, there are accounts under the name Naoki that aren't me.
+- I'm passionate about developing things and I always strive to improve my skills.
 
 ### About
 
-- A fun and cool person. I could be pretty rude to people sometimes. I am also pretty lazy.
-- Currently learning JavaScript, Java, PHP and Typescript.
-- Hobbies? I might not have any hobbies at all! Just kidding, I love sleeping.
-- I could drink coffee just fine, but I still prefer tea.
+- I'm a fun and cool person, but I must confess, I can be pretty rude to people sometimes. Also, I have a tendency to be lazy.
+- Currently, I'm learning some programming languages like JavaScript, Java, PHP, and Typescript to develop my skills further.
+- As for hobbies, I don't have many, but I enjoy sleeping when I'm not coding.
+- While I can drink coffee just fine, I still prefer tea as my go-to drink.
 
 ### Where to find me?
 
-- Just so you know, I have a discord account, Naoki#6323. I am somewhat active on this discord server: [Click Me](https://discord.gg/3p9RTntG4n).
+- If you're looking for me, I have a Discord account under the name Naoki#6323 and Ajax#2853. You can find me on this server which I'm somewhat active in. Here's the link to the server: [Click Me](https://discord.gg/3p9RTntG4n).
